@@ -1,0 +1,14 @@
+body{
+    background-image: url(fondo.jpg);
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+    
+}
+.pie{
+    clear: both;
+    padding: 20px;
+    background: #636e72;
+  } 
+  h1{
+    color: white;
+  }
